@@ -15,8 +15,8 @@ import (
 )
 
 var (
-	consumerKey    = "OSqfh35sUqKnf91CCxy1HDe7z"                          //key
-	consumerSecret = "yCyLsQhbFViIeleySesRwEl6dtFS5Sb43dSEOqxZw22BHYepqS" //Secretkey
+	consumerKey    = "OSqfh35sUqKnf91C"                          //key
+	consumerSecret = "yCyLsQhbFViIeleySesRwEl6dtFS5Sb43" //Secretkey
 	httpurl        = "https://twitter.com/oauth/request_token"            //url，必需全部小写。
 	//httpurl    = "http://localhost:9890/test.php" //url，必需全部小写。
 	httpMethod = "GET"
